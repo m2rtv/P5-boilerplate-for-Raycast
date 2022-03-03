@@ -26,4 +26,4 @@ You probably want to modify this to your needs. I keep the shell script in the c
 
 Check [Raycast Github page](https://github.com/raycast/script-commands#install-script-commands-from-this-repository) on how to set it up.
 
-Let me know if you have any tips and tricks to share.
+And let me know if you have any tips and tricks to share ✌️
