@@ -15,17 +15,12 @@ A shell script for [Raycast app](https://raycast.com/) so I can easily fire up n
 * Keyboard event function _(press "S")_ for saving the current frame as .png file. Naming: "img-YYMMDD-HHmmss@2x.png".
 
 ## Created folder structure
-↳ YYMMDD - PROJECT NAME
-
-  ↳ \_renders _(folder for screenshots)_
-  
-  ↳ img _(folder for image assets)_
-  
-  ↳ index.html
-  
-  ↳ main.css
-  
-  ↳ sketch.js
+* YYMMDD - PROJECT NAME
+⋅⋅*\_renders _(folder for screenshots)_
+⋅⋅*img _(folder for image assets)_
+⋅⋅*index.html
+⋅⋅*main.css
+⋅⋅*sketch.js
     
 You probably want to modify this to your needs. I keep the shell script in the current year folder.
 Check [Raycast Github page](https://github.com/raycast/script-commands#install-script-commands-from-this-repository) on how to set it up.
