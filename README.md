@@ -1,5 +1,5 @@
-# [P5](https://p5js.org/) boilerplate for [Raycast app](https://raycast.com/)
-A shell script for Raycast app so I can easily fire up new generative art sketches using P5 library.
+# P5 boilerplate for Raycast app
+A shell script for [Raycast app](https://raycast.com/) so I can easily fire up new generative art sketches using [P5 library](https://p5js.org/).
 
 ## How does it work?
 1. Fire up Raycast app and type in "P5" → "Your project name"
@@ -16,10 +16,15 @@ A shell script for Raycast app so I can easily fire up new generative art sketch
 
 ## Created folder structure
 ↳ YYMMDD - PROJECT NAME
+
   ↳ \_renders _(folder for screenshots)_
+  
   ↳ img _(folder for image assets)_
+  
   ↳ index.html
+  
   ↳ main.css
+  
   ↳ sketch.js
     
 You probably want to modify this to your needs. I keep the shell script in the current year folder.
