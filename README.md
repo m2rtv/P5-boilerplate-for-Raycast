@@ -11,6 +11,7 @@ A shell script for [Raycast app](https://raycast.com/) so I can easily start and
 * P5 library CDN link
 * Chroma.js CDN link _(for easier color manipulation)_
 * Day.js CDN link _(date/time formatting - used in screenshot file naming)_
+* HTML title _(YYMMDD - PROJECT NAME)_
 * Basic CSS reset and vertical centering of the canvas
 * Keyboard event function _(press "S")_ for saving the current frame as .png file. Naming: "img-YYMMDD-HHmmss@2x.png".
 
