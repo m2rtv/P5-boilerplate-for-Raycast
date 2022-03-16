@@ -97,9 +97,9 @@ EOT
 touch ./"$CURRENTDATE - $1"/sketch.js
 cat << EOT >> ./"$CURRENTDATE - $1"/sketch.js
 function setup() {
-    let width = 1080;
-    let height = 1080;
-    createCanvas(width, height);
+    let w = 1080;
+    let h = 1080;
+    createCanvas(w, h);
 }
 
 function draw() {
